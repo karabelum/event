@@ -9,6 +9,11 @@ Acc acc1 = new Acc(100);
 acc1.Notify += PrintMes;
 
 
+
+
+
+
+
 acc1.Put(20);
 
 
